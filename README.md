@@ -7,6 +7,10 @@ Welcome to your generated MCP server! 🚀 This project was created with the [Po
 
 Let's set things up!
 
+<a href="https://glama.ai/mcp/servers/@Ucode-io/mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Ucode-io/mcp-server/badge" alt="Postman Generator MCP server" />
+</a>
+
 ## 🚦 Getting Started
 
 ### ⚙️ Prerequisites
